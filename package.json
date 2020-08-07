@@ -34,7 +34,7 @@
         "path-to-regexp": "3.1.0",
         "perfect-scrollbar": "1.4.0",
         "postcss-selector-parser": "^6.0.2",
-        "prismjs": "1.17.1",
+        "prismjs": "1.21.0",
         "qs": "6.9.1",
         "raw-loader": "1.0.0",
         "react": "16.12.0",
